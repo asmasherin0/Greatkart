@@ -41,9 +41,9 @@ INSTALLED_APPS = [
     'myapp',
     'category',
     'accounts',
-    'store'
+    'store',
+    'carts',
 ]
-
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
